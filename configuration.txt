@@ -1,0 +1,2 @@
+ma.moktafiioc.dao.DaoImpl
+ma.moktafiioc.metier.MetierImpl
